@@ -132,6 +132,10 @@ html,body{
     margin-left: 27%;
     width: 72%;
     height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 
 }
 
@@ -145,3 +149,11 @@ html,body{
     text-transform: uppercase;
     line-height: 7.2vw;
 }
+#hero3 h2{
+    
+    font-size:7.2vw ;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 7.2vw;
+}
+

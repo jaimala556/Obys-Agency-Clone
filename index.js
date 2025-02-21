@@ -49,7 +49,7 @@ t1.to("#loader",{
 t1.from("#nav",{
    opacity:0
 })
-t1.from(".Hero h1",{
+t1.from("#hero h1,#hero2 h1 ,#hero3 h2,#hero4 h1",{
     y:120,
     stagger:0.2
 })
